@@ -1,0 +1,11 @@
+EXPORTS
+	CreateMyTooltip
+	ActiveToolTips
+	WinMain
+	DisplayContextMenu
+	OnContextMenu
+	AjouterAuMenu
+	CommunFichiers
+	OuvrirFichier
+	SauverFichier
+	ExplorerDossiers
